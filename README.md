@@ -20,4 +20,5 @@ Bu bilgileri bulduktan sonra bunları kontrol edip sadece doğru olanları yazd�
 Örnek çıktı:
 
 
-![Ekran görüntüsü 2023-03-31 163827](https://user-images.githubusercontent.com/127944042/229136081-4642a99b-743b-42b6-85ab-ce1c284f555e.png)
+
+![Ekran görüntüsü 2023-04-02 015210](https://user-images.githubusercontent.com/127944042/229319718-373b6e69-dbd2-4ac5-a0a1-aa043c7206b3.png)
