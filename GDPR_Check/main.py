@@ -26,9 +26,8 @@ with open("D:\\test\\metin.txt", "r") as metin:
     telreg = metin.read()
 
 def telefon_no_sorgu(telno):
-    pattern = r"(\d{3})-(\d{7})"
+    pattern = r"(\d{10})"
     telreg = re.search(pattern, telno)
-
 
     if telreg:
         gsm_tel = telreg.groups()[0]
@@ -165,7 +164,7 @@ while baslangic <= len(vkreg)-10:
         if idx >= baslangic:
             sayac = sayac + 1
             vkno = vkno + x
-        if sayac == 11:
+        if sayac == 10:
             break
     if IsTax(vkno):
         print(vkno,"Vergi Numarası Doğru.")
