@@ -14,7 +14,8 @@ Bu bilgileri bulduktan sonra bunları kontrol edip sadece doğru olanları yazd�
 Örnek metin:
 
 
-![Ekran görüntüsü 2023-03-31 164016](https://user-images.githubusercontent.com/127944042/229135848-89ffb53b-03e8-4ab0-857a-2ec36e227a10.png)
+![Ekran görüntüsü 2023-04-02 022340](https://user-images.githubusercontent.com/127944042/229356672-61d7c285-37ce-4ff0-8c78-6f0c23a2688e.png)
+
 
 
 Örnek çıktı:
